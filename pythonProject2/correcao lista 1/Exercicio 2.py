@@ -1,0 +1,1 @@
+numero = int(input("Entre com um numero de 5 digiots:"))
